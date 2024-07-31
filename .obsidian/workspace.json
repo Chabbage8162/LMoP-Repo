@@ -11,8 +11,12 @@
             "id": "985771d4e838fadd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Statblocks/Monsters/Commoner.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campaign/Statblocks/Monsters/Commoner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campaign/Statblocks/Monsters/Commoner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Campaign/Statblocks/Monsters/Commoner.md"
+              }
             }
           },
           {
@@ -128,13 +136,21 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "213afe74fd92e37b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,18 +172,23 @@
       "moulinette:Moulinette Browser": false,
       "omnisearch:Omnisearch": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "985771d4e838fadd",
   "lastOpenFiles": [
-    "Campaign/Statblocks/Monsters/Commoner.md",
+    "Images/Screenshot 2024-07-31 113623.png",
     "Images/Commoner Statblock.png",
+    "Campaign/Statblocks/Monsters/Commoner.md",
+    "Campaign/Chapters/Chapter 2 - Phandalin.md",
+    "Campaign/Maps/Cragmaw Hideout - DM.md",
+    "Campaign/Statblocks/Monsters/Bugbear.md",
+    "Campaign/Statblocks/Monsters/Goblin.md",
+    "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
     "LMoP-Repo",
     "Campaign/Introduction.md",
-    "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
     "Campaign/Chapters/Introduction.md",
-    "Campaign/Maps/Cragmaw Hideout - DM.md",
     "Campaign/Appendixes/Lost Mine of Phandelver - App. B Monsters.md",
     "Campaign/Appendixes/Lost Mine of Phandelver - App. A Magic Items.md",
     "Campaign/Appendixes",
@@ -176,8 +197,6 @@
     "Images/Cragmaw Hideout - Player.webp",
     "Images/Cragmaw Hideout - DM.webp",
     "Campaign/Statblocks/Monsters/Wolf.md",
-    "Campaign/Statblocks/Monsters/Goblin.md",
-    "Campaign/Statblocks/Monsters/Bugbear.md",
     "Campaign/Statblocks/NPCs/Sildar Hallwinter.md",
     "Campaign/Statblocks/NPCs/Gundren Rockseeker.md",
     "Campaign/Statblocks/NPCs",
@@ -187,7 +206,6 @@
     "Images/Gundren Rockseeker Statblock.png",
     "Campaign/Maps/Cragmaw Hideout - Player.md",
     "Images/Sildar Hallwinter Statblock.png",
-    "Campaign/Chapters/Chapter 2 - Phandalin.md",
     "Campaign/Chapters",
     "Campaign/Maps/Sword Coast - DM.md",
     "Campaign/Maps/Sword Coast - Player.md",
