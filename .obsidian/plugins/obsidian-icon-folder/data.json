@@ -61,5 +61,6 @@
   "Campaign/Statblocks/Monsters": "LiSkull",
   "Campaign/Statblocks/NPCs": "LiBookUser",
   "Images/Commoner Statblock.png": "LiImage",
-  "Images/Screenshot 2024-07-31 113623.png": "LiImage"
+  "Images/Screenshot 2024-07-31 113623.png": "LiImage",
+  "Campaign/Statblocks/Monsters/Commoner.md": "LiSkull"
 }
