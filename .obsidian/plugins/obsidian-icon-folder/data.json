@@ -59,5 +59,6 @@
   "Campaign/Statblocks/Monsters/Bugbear.md": "LiSkull",
   "Campaign/Statblocks/Monsters/Goblin.md": "LiSkull",
   "Campaign/Statblocks/Monsters": "LiSkull",
-  "Campaign/Statblocks/NPCs": "LiBookUser"
+  "Campaign/Statblocks/NPCs": "LiBookUser",
+  "Images/Commoner Statblock.png": "LiImage"
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Screenshot 2024-07-31 113356.png"
+                "file": "Images/Commoner Statblock.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Screenshot 2024-07-31 113356.png",
+                "file": "Images/Commoner Statblock.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Screenshot 2024-07-31 113356.png",
+                "file": "Images/Commoner Statblock.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Screenshot 2024-07-31 113356.png"
+                "file": "Images/Commoner Statblock.png"
               }
             }
           },
@@ -177,7 +177,7 @@
   "active": "196bcc97841c9a52",
   "lastOpenFiles": [
     "Campaign/Chapters/Chapter 2 - Phandalin.md",
-    "Images/Screenshot 2024-07-31 113356.png",
+    "Images/Commoner Statblock.png",
     "Campaign/Maps/Cragmaw Hideout - DM.md",
     "Campaign/Statblocks/Monsters/Bugbear.md",
     "Campaign/Statblocks/Monsters/Goblin.md",
