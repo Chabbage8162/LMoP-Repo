@@ -1,0 +1,1 @@
+![[Redbrand Ruffian Statblock.png]]
