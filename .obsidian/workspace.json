@@ -11,9 +11,11 @@
             "id": "985771d4e838fadd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Commoner Statblock.png"
+                "file": "Campaign/Statblocks/Monsters/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Commoner Statblock.png",
+                "file": "Campaign/Statblocks/Monsters/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Commoner Statblock.png",
+                "file": "Campaign/Statblocks/Monsters/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Commoner Statblock.png"
+                "file": "Campaign/Statblocks/Monsters/Untitled.md"
               }
             }
           },
@@ -176,8 +178,9 @@
   },
   "active": "196bcc97841c9a52",
   "lastOpenFiles": [
-    "Campaign/Chapters/Chapter 2 - Phandalin.md",
     "Images/Commoner Statblock.png",
+    "Campaign/Statblocks/Monsters/Untitled.md",
+    "Campaign/Chapters/Chapter 2 - Phandalin.md",
     "Campaign/Maps/Cragmaw Hideout - DM.md",
     "Campaign/Statblocks/Monsters/Bugbear.md",
     "Campaign/Statblocks/Monsters/Goblin.md",
