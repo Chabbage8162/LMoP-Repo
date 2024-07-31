@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Statblocks/Monsters/Bugbear.md",
+                "file": "Campaign/Chapters/Chapter 2 - Phandalin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Statblocks/Monsters/Bugbear.md",
+                "file": "Campaign/Chapters/Chapter 2 - Phandalin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Statblocks/Monsters/Bugbear.md",
+                "file": "Campaign/Chapters/Chapter 2 - Phandalin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Statblocks/Monsters/Bugbear.md"
+                "file": "Campaign/Chapters/Chapter 2 - Phandalin.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "985771d4e838fadd",
   "lastOpenFiles": [
+    "Campaign/Statblocks/Monsters/Bugbear.md",
     "Campaign/Statblocks/Monsters/Redbrand Ruffian.md",
     "Images/Redbrand Ruffian Statblock.png",
     "Campaign/Statblocks/Monsters/Untitled.md",
@@ -189,7 +190,6 @@
     "Images/Cragmaw Hideout - DM.webp",
     "Campaign/Statblocks/Monsters/Wolf.md",
     "Campaign/Statblocks/Monsters/Goblin.md",
-    "Campaign/Statblocks/Monsters/Bugbear.md",
     "Campaign/Statblocks/NPCs/Sildar Hallwinter.md",
     "Campaign/Statblocks/NPCs/Gundren Rockseeker.md",
     "Campaign/Statblocks/NPCs",
