@@ -144,9 +144,30 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "27c829a1f586dcb9",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_491a99cb484b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 29,
+                    "month": 4,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_e9bb79b8e818"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
