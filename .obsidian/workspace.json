@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Chapters/Chapter 2 - Phandalin.md",
+                "file": "Campaign/Statblocks/Monsters/Bugbear.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Chapters/Chapter 2 - Phandalin.md",
+                "file": "Campaign/Statblocks/Monsters/Bugbear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Chapters/Chapter 2 - Phandalin.md",
+                "file": "Campaign/Statblocks/Monsters/Bugbear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Chapters/Chapter 2 - Phandalin.md"
+                "file": "Campaign/Statblocks/Monsters/Bugbear.md"
               }
             }
           },
@@ -136,42 +136,13 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
-          },
-          {
-            "id": "213afe74fd92e37b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "27c829a1f586dcb9",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_491a99cb484b",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 29,
-                    "month": 4,
-                    "year": 1491
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_e9bb79b8e818"
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,18 +169,17 @@
   },
   "active": "985771d4e838fadd",
   "lastOpenFiles": [
-    "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
-    "Campaign/Chapters/Chapter 2 - Phandalin.md",
     "Campaign/Statblocks/Monsters/Redbrand Ruffian.md",
     "Images/Redbrand Ruffian Statblock.png",
+    "Campaign/Statblocks/Monsters/Untitled.md",
+    "Images/Screenshot 2024-07-31 113623.png",
     "Campaign/Statblocks/Monsters/Commoner.md",
     "Images/Commoner Statblock.png",
-    "Campaign/Maps/Cragmaw Hideout - DM.md",
-    "Campaign/Statblocks/Monsters/Bugbear.md",
-    "Campaign/Statblocks/Monsters/Goblin.md",
     "LMoP-Repo",
     "Campaign/Introduction.md",
+    "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
     "Campaign/Chapters/Introduction.md",
+    "Campaign/Maps/Cragmaw Hideout - DM.md",
     "Campaign/Appendixes/Lost Mine of Phandelver - App. B Monsters.md",
     "Campaign/Appendixes/Lost Mine of Phandelver - App. A Magic Items.md",
     "Campaign/Appendixes",
@@ -218,6 +188,8 @@
     "Images/Cragmaw Hideout - Player.webp",
     "Images/Cragmaw Hideout - DM.webp",
     "Campaign/Statblocks/Monsters/Wolf.md",
+    "Campaign/Statblocks/Monsters/Goblin.md",
+    "Campaign/Statblocks/Monsters/Bugbear.md",
     "Campaign/Statblocks/NPCs/Sildar Hallwinter.md",
     "Campaign/Statblocks/NPCs/Gundren Rockseeker.md",
     "Campaign/Statblocks/NPCs",
@@ -227,13 +199,13 @@
     "Images/Gundren Rockseeker Statblock.png",
     "Campaign/Maps/Cragmaw Hideout - Player.md",
     "Images/Sildar Hallwinter Statblock.png",
+    "Campaign/Chapters/Chapter 2 - Phandalin.md",
     "Campaign/Chapters",
     "Campaign/Maps/Sword Coast - DM.md",
     "Campaign/Maps/Sword Coast - Player.md",
     "Campaign/Part 1 - Goblin Arrows.md",
     "Campaign/Sword Coast - DM Version.md",
     "Campaign/Maps/Sword Coast - DM Version.md",
-    "Images/The Sword Coast - DM.webp",
     "Campaign/Maps/Untitled.md",
     "Campaign/Maps",
     "Images",
