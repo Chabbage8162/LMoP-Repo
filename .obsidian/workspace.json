@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "789bd15dab9fdb37",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb9996c8ab9ddee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985771d4e838fadd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e48a33c273349b18",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2778a1a904dd99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "196bcc97841c9a52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e51b0b0ea58ac9e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d75829acae71ac01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6f3b85411dce64b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a1d8e6d805fdab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e016ed4a395438f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68c1ba7cb2332069",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f28a4d0e487b2eb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ca2043a7e8615a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "edbe92a260a4fd90",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-importer:Open Importer": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "moulinette:Moulinette Browser": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "985771d4e838fadd",
+  "lastOpenFiles": [
+    "LMoP-Repo",
+    "Campaign/Introduction.md",
+    "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
+    "Campaign/Chapters/Introduction.md",
+    "Campaign/Maps/Cragmaw Hideout - DM.md",
+    "Campaign/Appendixes/Lost Mine of Phandelver - App. B Monsters.md",
+    "Campaign/Appendixes/Lost Mine of Phandelver - App. A Magic Items.md",
+    "Campaign/Appendixes",
+    "Images/Wolf Statblock.png",
+    "Images/Bugbear Statblock.png",
+    "Images/Cragmaw Hideout - Player.webp",
+    "Images/Cragmaw Hideout - DM.webp",
+    "Campaign/Statblocks/Monsters/Wolf.md",
+    "Campaign/Statblocks/Monsters/Goblin.md",
+    "Campaign/Statblocks/Monsters/Bugbear.md",
+    "Campaign/Statblocks/NPCs/Sildar Hallwinter.md",
+    "Campaign/Statblocks/NPCs/Gundren Rockseeker.md",
+    "Campaign/Statblocks/NPCs",
+    "Campaign/Statblocks/Monsters",
+    "Campaign/Statblocks",
+    "Images/Goblin Statblock.png",
+    "Images/Gundren Rockseeker Statblock.png",
+    "Campaign/Maps/Cragmaw Hideout - Player.md",
+    "Images/Sildar Hallwinter Statblock.png",
+    "Campaign/Chapters/Chapter 2 - Phandalin.md",
+    "Campaign/Chapters",
+    "Campaign/Maps/Sword Coast - DM.md",
+    "Campaign/Maps/Sword Coast - Player.md",
+    "Campaign/Part 1 - Goblin Arrows.md",
+    "Campaign/Sword Coast - DM Version.md",
+    "Campaign/Maps/Sword Coast - DM Version.md",
+    "Images/The Sword Coast - DM.webp",
+    "Campaign/Maps/Untitled.md",
+    "Campaign/Maps",
+    "Images/The Sword Coast - Player.webp",
+    "Images/The Sword Coastdm.webp",
+    "Images",
+    "img/adventure/LMoP/The.md",
+    "img/adventure/LMoP",
+    "img/adventure",
+    "img",
+    "Welcome.md"
+  ]
+}

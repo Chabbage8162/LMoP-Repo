@@ -1,0 +1,1 @@
+![[Sildar Hallwinter Statblock.png]]

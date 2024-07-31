@@ -1,0 +1,1 @@
+![[Goblin Statblock.png]]
