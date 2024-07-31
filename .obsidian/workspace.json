@@ -136,8 +136,17 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "213afe74fd92e37b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
