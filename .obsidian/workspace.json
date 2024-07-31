@@ -11,8 +11,12 @@
             "id": "985771d4e838fadd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md"
+              }
             }
           },
           {
@@ -156,7 +164,8 @@
       "moulinette:Moulinette Browser": false,
       "omnisearch:Omnisearch": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "985771d4e838fadd",
