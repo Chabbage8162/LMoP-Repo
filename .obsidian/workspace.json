@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Chapters/Introduction.md",
+                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Chapters/Introduction.md",
+                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Chapters/Introduction.md",
+                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Chapters/Introduction.md"
+                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "985771d4e838fadd",
   "lastOpenFiles": [
+    "Campaign/Chapters/Introduction.md",
     "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
     "Campaign/Chapters/Chapter 2 - Phandalin.md",
     "Campaign/Statblocks/Monsters/Bugbear.md",
@@ -181,7 +182,6 @@
     "Images/Commoner Statblock.png",
     "LMoP-Repo",
     "Campaign/Introduction.md",
-    "Campaign/Chapters/Introduction.md",
     "Campaign/Maps/Cragmaw Hideout - DM.md",
     "Campaign/Appendixes/Lost Mine of Phandelver - App. B Monsters.md",
     "Campaign/Appendixes/Lost Mine of Phandelver - App. A Magic Items.md",
