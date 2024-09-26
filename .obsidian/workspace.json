@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -190,15 +190,13 @@
       "omnisearch:Omnisearch": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-tts:Text to Speech": false
     }
   },
   "active": "c733a0ed3d6b9e3c",
   "lastOpenFiles": [
-    "2024-09-26.md",
-    "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
     "Campaign/Statblocks/Monsters/Goblin.md",
+    "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
     "Campaign/Chapters/Chapter 2 - Phandalin.md",
     "Campaign/Encounters/Chapter 1.md",
     "Campaign/Chapters/Introduction.md",
@@ -241,6 +239,7 @@
     "Campaign/Maps/Untitled.md",
     "Campaign/Maps",
     "Images",
-    "img/adventure/LMoP/The.md"
+    "img/adventure/LMoP/The.md",
+    "Welcome.md"
   ]
 }
