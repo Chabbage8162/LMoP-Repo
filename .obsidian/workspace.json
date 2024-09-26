@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c733a0ed3d6b9e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbac67ef3c0c7cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Statblocks/Monsters/Goblin.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,20 +184,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-importer:Open Importer": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "moulinette:Moulinette Browser": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "985771d4e838fadd",
+  "active": "c733a0ed3d6b9e3c",
   "lastOpenFiles": [
-    "Campaign/Chapters/Introduction.md",
+    "Campaign/Statblocks/Monsters/Goblin.md",
     "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
     "Campaign/Chapters/Chapter 2 - Phandalin.md",
+    "Campaign/Encounters/Chapter 1.md",
+    "Campaign/Chapters/Introduction.md",
+    "Campaign/Encounters/Chapter 2.md",
+    "Campaign/Encounters/Untitled",
+    "Campaign/Encounters",
     "Campaign/Statblocks/Monsters/Bugbear.md",
     "Campaign/Statblocks/Monsters/Redbrand Ruffian.md",
     "Images/Redbrand Ruffian Statblock.png",
@@ -191,7 +215,6 @@
     "Images/Cragmaw Hideout - Player.webp",
     "Images/Cragmaw Hideout - DM.webp",
     "Campaign/Statblocks/Monsters/Wolf.md",
-    "Campaign/Statblocks/Monsters/Goblin.md",
     "Campaign/Statblocks/NPCs/Sildar Hallwinter.md",
     "Campaign/Statblocks/NPCs/Gundren Rockseeker.md",
     "Campaign/Statblocks/NPCs",
@@ -211,8 +234,6 @@
     "Campaign/Maps",
     "Images",
     "img/adventure/LMoP/The.md",
-    "img/adventure/LMoP",
-    "img/adventure",
     "Welcome.md"
   ]
 }
