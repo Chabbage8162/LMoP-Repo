@@ -184,11 +184,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-importer:Open Importer": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "moulinette:Moulinette Browser": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
   "active": "c733a0ed3d6b9e3c",
   "lastOpenFiles": [
+    "2024-09-26.md",
     "Campaign/Statblocks/Monsters/Goblin.md",
     "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
     "Campaign/Chapters/Chapter 2 - Phandalin.md",
@@ -233,7 +241,6 @@
     "Campaign/Maps/Untitled.md",
     "Campaign/Maps",
     "Images",
-    "img/adventure/LMoP/The.md",
-    "Welcome.md"
+    "img/adventure/LMoP/The.md"
   ]
 }
