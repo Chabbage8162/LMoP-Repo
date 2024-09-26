@@ -1,5 +1,5 @@
 
-The adventure begins as the player characters are escorting a wagon full of provisions and supplies from Neverwinter to Phandalin. Tedhe journey takes them south along the High Road to the Triboar Trail, which heads east (as shown on the overland map). When they're a half-day's march from Phandalin, they run into trouble with goblin raiders from the Cragmaw tribe.
+The adventure begins as the player characters are escorting a wagon full of provisions and supplies from Neverwinter to Phandalin. The journey takes them south along the High Road to the Triboar Trail, which heads east (as shown on the overland map). When they're a half-day's march from Phandalin, they run into trouble with goblin raiders from the Cragmaw tribe.
 
 Read the boxed text when you're ready to start. If you create a different adventure hook, skip to the second paragraph and adjust the details as necessary, ignoring the information about driving the wagon.
 
