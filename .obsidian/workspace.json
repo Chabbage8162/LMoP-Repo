@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
+                "file": "Campaign/Statblocks/Monsters/Redbrand Ruffian.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
+                "file": "Campaign/Statblocks/Monsters/Redbrand Ruffian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
+                "file": "Campaign/Statblocks/Monsters/Redbrand Ruffian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Chapters/Chapter 1 - Goblin Arrows.md"
+                "file": "Campaign/Statblocks/Monsters/Redbrand Ruffian.md"
               }
             }
           },
@@ -196,15 +196,15 @@
   },
   "active": "c733a0ed3d6b9e3c",
   "lastOpenFiles": [
-    "Campaign/Statblocks/Monsters/Goblin.md",
+    "Campaign/Statblocks/Monsters/Bugbear.md",
     "Campaign/Chapters/Chapter 1 - Goblin Arrows.md",
+    "Campaign/Statblocks/Monsters/Goblin.md",
     "Campaign/Chapters/Chapter 2 - Phandalin.md",
     "Campaign/Encounters/Chapter 1.md",
     "Campaign/Chapters/Introduction.md",
     "Campaign/Encounters/Chapter 2.md",
     "Campaign/Encounters/Untitled",
     "Campaign/Encounters",
-    "Campaign/Statblocks/Monsters/Bugbear.md",
     "Campaign/Statblocks/Monsters/Redbrand Ruffian.md",
     "Images/Redbrand Ruffian Statblock.png",
     "Campaign/Statblocks/Monsters/Untitled.md",
